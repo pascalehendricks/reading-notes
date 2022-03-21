@@ -7,6 +7,9 @@ To me, a growth mindset means approaching learning with humility, openness, and 
 * Embracing all feedback as helpful 
 * Trying even if feeling like you'll fail 
 
+
+
+
 [^1]: Further reading [How you can benefit from a growth mindset](https://www.atlassian.com/blog/inside-atlassian/growth-mindset/).
 
 
