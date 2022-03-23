@@ -10,3 +10,4 @@ Hello! I am Pascale, an aspiring coder from Portland, Oregon and living in Los A
 * [3/21: 02 Reading Notes](321-02.md)
 * [3/21: Growth Mindset](growth-mindset.md)
 * [3/22: Reading Notes](322-01.md)
+* [3/22: HTML Reading Notes](322-02.md)
